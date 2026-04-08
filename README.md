@@ -10,6 +10,5 @@ Share and import your test scenerious
 
 Need fixes;
 Next versiyon fixes and developments
-Appium Inspector üzerinde selected element kopyalanıp yapıştırılmasında xpath ayrıştırılmasına dair hatalar mevcut fix bekleniyor
 IOS platform testleri için arayüz ve kod değişikliği yapılacak, uygulamanın IOS platformunda test yapılabilmesini sağlayacak
 POS cihazları testleri için arayüz ve kod değişikliği yapılacak, uygulamanın POS cihazlarının testini yapabilmesini sağlayacak
